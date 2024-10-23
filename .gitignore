@@ -1,0 +1,11 @@
+# Folders
+node_modules
+logs
+__pycache__/
+results/
+
+# Files
+package-lock.json
+.env
+.babelrc
+yarn.lock
